@@ -7,3 +7,6 @@
 [submodule "libs/kiibohd"]
 	path = libs/kiibohd
 	url = https://github.com/kiibohd/pcb.git
+[submodule "libs/kicad-libs"]
+	path = libs/kicad-libs
+	url = https://github.com/borgel/kicad-libs
