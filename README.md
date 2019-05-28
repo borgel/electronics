@@ -7,7 +7,7 @@ Contained are the schematics and board layout KiCad files for the [Ultimate Hack
 
 Please make sure to clone this repo with:
 
-`git clone --recursive git@github.com:UltimateHackingKeyboard/electronics.git`
+`git clone --recursive git@github.com:borgel/electronics.git`
 
 Now, you should be able to open any of the 4 [KiCad](http://kicad-pcb.org/) projects of the repo:
 
